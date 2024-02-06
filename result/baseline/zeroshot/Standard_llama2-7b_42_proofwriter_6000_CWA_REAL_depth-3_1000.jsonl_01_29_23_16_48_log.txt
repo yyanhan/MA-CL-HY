@@ -1,0 +1,28 @@
+01/29/2024 23:16:48   **info                              []
+01/29/2024 23:16:48   seed                                [42]
+01/29/2024 23:16:48   model                               [meta-llama/Llama-2-7b-chat-hf]
+01/29/2024 23:16:48   model_short                         [llama2-7b]
+01/29/2024 23:16:48   PROMPT_METHOD                       [Standard]
+01/29/2024 23:16:48   arg data_file_name                  [CWA_REAL_depth-3_1000.jsonl]
+01/29/2024 23:16:48   arg dataset_name                    [proofwriter_6000]
+01/29/2024 23:16:48   max_length                          [400]
+01/29/2024 23:16:48   torch_dtype                         [torch.float16]
+01/29/2024 23:16:48   isFormatTheory                      [False]
+01/29/2024 23:16:48   dataset_file_full_path              [/dss/dsshome1/0A/di35fer/dataset/proofwriter_6000/CWA_REAL_depth-3_1000.jsonl]
+01/29/2024 23:16:48   path_output_log                     [/dss/dsshome1/0A/di35fer/code/result/proofwriter_6000/Standard_llama2-7b_42_proofwriter_6000_CWA_REAL_depth-3_1000.jsonl_01_29_23_16_48_log.txt]
+01/29/2024 23:16:48   output_file_path                    [/dss/dsshome1/0A/di35fer/code/result/proofwriter_6000/Standard_llama2-7b_42_proofwriter_6000_CWA_REAL_depth-3_1000.jsonl_01_29_23_16_48_res.csv]
+01/29/2024 23:16:48   Starting new HTTPS connection (1): huggingface.co:443
+01/29/2024 23:16:48   https://huggingface.co:443 "HEAD /meta-llama/Llama-2-7b-chat-hf/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+01/29/2024 23:16:49   https://huggingface.co:443 "HEAD /meta-llama/Llama-2-7b-chat-hf/resolve/main/config.json HTTP/1.1" 200 0
+01/29/2024 23:16:52   We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+01/29/2024 23:16:56   https://huggingface.co:443 "HEAD /meta-llama/Llama-2-7b-chat-hf/resolve/main/generation_config.json HTTP/1.1" 200 0
+01/29/2024 23:16:56   Starting new HTTPS connection (1): s3.amazonaws.com:443
+01/29/2024 23:16:57   https://s3.amazonaws.com:443 "HEAD /datasets.huggingface.co/datasets/datasets/json/json.py HTTP/1.1" 200 0
+01/29/2024 23:16:57   open file: /dss/dsshome1/0A/di35fer/.cache/huggingface/datasets/json/default-4af28082d83302aa/0.0.0/8bb11242116d547c741b2e8a1f18598ffdd40a1d4f2a2872c7a28b697434bc96/dataset_info.json
+01/29/2024 23:16:57   open file: /dss/dsshome1/0A/di35fer/.cache/huggingface/datasets/json/default-4af28082d83302aa/0.0.0/8bb11242116d547c741b2e8a1f18598ffdd40a1d4f2a2872c7a28b697434bc96/dataset_info.json
+01/29/2024 23:20:43   nr      [200]
+01/29/2024 23:24:28   nr      [400]
+01/29/2024 23:28:49   nr      [600]
+01/29/2024 23:33:15   nr      [800]
+01/29/2024 23:37:57   nr      [1000]
+01/29/2024 23:37:57   finished

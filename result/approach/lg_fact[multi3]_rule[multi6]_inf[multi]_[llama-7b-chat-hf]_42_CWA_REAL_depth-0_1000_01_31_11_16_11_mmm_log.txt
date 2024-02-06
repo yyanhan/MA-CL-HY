@@ -1,0 +1,30 @@
+01/31/2024 11:16:11   **info                              [mmm]
+01/31/2024 11:16:11   seed                                [42]
+01/31/2024 11:16:11   model                               [meta-llama/Llama-2-7b-chat-hf]
+01/31/2024 11:16:11   model_short                         [llama-7b-chat-hf]
+01/31/2024 11:16:11   mode_fact                           [multi]
+01/31/2024 11:16:11   mode_rule                           [multi]
+01/31/2024 11:16:11   mode_inference                      [multi]
+01/31/2024 11:16:11   num_example_fact                    [3]
+01/31/2024 11:16:11   num_example_rule                    [6]
+01/31/2024 11:16:11   arg dataset_name                    [proofwriter_6000]
+01/31/2024 11:16:11   arg data_file_name                  [CWA_REAL_depth-0_1000]
+01/31/2024 11:16:11   torch_dtype                         [torch.float16]
+01/31/2024 11:16:11   dataset_file_full_path              [/dss/dsshome1/0A/di35fer/dataset/proofwriter_6000/CWA_REAL_depth-0_1000.jsonl]
+01/31/2024 11:16:11   path_output_log                     [/dss/dsshome1/0A/di35fer/code/code_vanilla/result/module/proofwriter_6000/lg_fact[multi3]_rule[multi6]_inf[multi]_[llama-7b-chat-hf]_42_CWA_REAL_depth-0_1000_01_31_11_16_11_mmm_log.txt]
+01/31/2024 11:16:11   output_file_path                    [/dss/dsshome1/0A/di35fer/code/code_vanilla/result/module/proofwriter_6000/lg_fact[multi3]_rule[multi6]_inf[multi]_[llama-7b-chat-hf]_42_CWA_REAL_depth-0_1000_01_31_11_16_11_mmm_res.csv]
+01/31/2024 11:16:11   Starting new HTTPS connection (1): huggingface.co:443
+01/31/2024 11:16:11   https://huggingface.co:443 "HEAD /meta-llama/Llama-2-7b-chat-hf/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+01/31/2024 11:16:12   https://huggingface.co:443 "HEAD /meta-llama/Llama-2-7b-chat-hf/resolve/main/config.json HTTP/1.1" 200 0
+01/31/2024 11:16:18   We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+01/31/2024 11:16:26   https://huggingface.co:443 "HEAD /meta-llama/Llama-2-7b-chat-hf/resolve/main/generation_config.json HTTP/1.1" 200 0
+01/31/2024 11:16:26   Starting new HTTPS connection (1): s3.amazonaws.com:443
+01/31/2024 11:16:27   https://s3.amazonaws.com:443 "HEAD /datasets.huggingface.co/datasets/datasets/json/json.py HTTP/1.1" 200 0
+01/31/2024 11:16:27   open file: /dss/dsshome1/0A/di35fer/.cache/huggingface/datasets/json/default-6d971a6b38710bc7/0.0.0/8bb11242116d547c741b2e8a1f18598ffdd40a1d4f2a2872c7a28b697434bc96/dataset_info.json
+01/31/2024 11:16:27   open file: /dss/dsshome1/0A/di35fer/.cache/huggingface/datasets/json/default-6d971a6b38710bc7/0.0.0/8bb11242116d547c741b2e8a1f18598ffdd40a1d4f2a2872c7a28b697434bc96/dataset_info.json
+01/31/2024 11:50:44   nr      [200]
+01/31/2024 12:24:31   nr      [400]
+01/31/2024 12:59:06   nr      [600]
+01/31/2024 13:33:18   nr      [800]
+01/31/2024 14:08:12   nr      [1000]
+01/31/2024 14:08:12   finished
