@@ -1,0 +1,100 @@
+{"nr": 0, "num_fact": 1, "facts": "The lion eats the bald eagle"}
+{"nr": 1, "num_fact": 1, "facts": "Gary is rough"}
+{"nr": 2, "num_fact": 1, "facts": "The cow likes the lion"}
+{"nr": 3, "num_fact": 1, "facts": "The rabbit likes the bald eagle"}
+{"nr": 4, "num_fact": 1, "facts": "The bald eagle likes the squirrel"}
+{"nr": 5, "num_fact": 1, "facts": "Fiona is rough"}
+{"nr": 6, "num_fact": 1, "facts": "The cow is nice"}
+{"nr": 7, "num_fact": 1, "facts": "Dave is young"}
+{"nr": 8, "num_fact": 1, "facts": "Fiona is blue"}
+{"nr": 9, "num_fact": 1, "facts": "The rabbit eats the cow"}
+{"nr": 0, "num_fact": 2, "facts": "Erin is round, The cat sees the lion"}
+{"nr": 1, "num_fact": 2, "facts": "The dog is rough, The tiger needs the lion"}
+{"nr": 2, "num_fact": 2, "facts": "The cat needs the dog, The bald eagle sees the cow"}
+{"nr": 3, "num_fact": 2, "facts": "Gary is green, The bear sees the rabbit"}
+{"nr": 4, "num_fact": 2, "facts": "The mouse likes the lion, Anne is red"}
+{"nr": 5, "num_fact": 2, "facts": "The dog likes the bald eagle, The rabbit eats the cat"}
+{"nr": 6, "num_fact": 2, "facts": "The mouse visits the cow, The cat likes the rabbit"}
+{"nr": 7, "num_fact": 2, "facts": "The bear is nice, The lion likes the squirrel"}
+{"nr": 8, "num_fact": 2, "facts": "The cow needs the mouse, The dog likes the lion"}
+{"nr": 9, "num_fact": 2, "facts": "The lion eats the cow, The mouse is cold"}
+{"nr": 0, "num_fact": 3, "facts": "Fiona is kind, Fiona is smart, Charlie is kind"}
+{"nr": 1, "num_fact": 3, "facts": "The cow is green, The bear is young, The squirrel is young"}
+{"nr": 2, "num_fact": 3, "facts": "The tiger chases the bald eagle, The bald eagle eats the bear, Harry is red"}
+{"nr": 3, "num_fact": 3, "facts": "The dog likes the lion, The lion eats the bald eagle, The squirrel is cold"}
+{"nr": 4, "num_fact": 3, "facts": "The cat eats the tiger, The mouse likes the squirrel, Anne is young"}
+{"nr": 5, "num_fact": 3, "facts": "The cow sees the rabbit, Bob is smart, The bald eagle eats the squirrel"}
+{"nr": 6, "num_fact": 3, "facts": "The cat needs the bald eagle, The cow likes the squirrel, The dog visits the squirrel"}
+{"nr": 7, "num_fact": 3, "facts": "The bald eagle visits the dog, The squirrel chases the cat, The cow is round"}
+{"nr": 8, "num_fact": 3, "facts": "The bald eagle is young, The tiger likes the cat, "}
+{"nr": 9, "num_fact": 3, "facts": "Charlie is white, Anne is furry, The rabbit eats the dog"}
+{"nr": 0, "num_fact": 4, "facts": "The tiger is nice, The rabbit eats the cat, The tiger is green, Erin is quiet"}
+{"nr": 1, "num_fact": 4, "facts": "The mouse needs the lion, The dog needs the bald eagle, The squirrel needs the lion, The cat is nice"}
+{"nr": 2, "num_fact": 4, "facts": "The rabbit visits the tiger, The bear needs the rabbit, The bear sees the squirrel, The tiger sees the rabbit"}
+{"nr": 3, "num_fact": 4, "facts": "The bald eagle needs the bear, The cat likes the bald eagle, The dog sees the cat, The squirrel sees the cat"}
+{"nr": 4, "num_fact": 4, "facts": "The bear sees the dog, The bear eats the cat, Erin is young, The cow likes the bear"}
+{"nr": 5, "num_fact": 4, "facts": "The lion likes the mouse, The rabbit chases the bear, The tiger likes the bear, The squirrel visits the cow"}
+{"nr": 6, "num_fact": 4, "facts": "The mouse sees the squirrel, The lion likes the cow, The cow visits the bear, The cat eats the bear"}
+{"nr": 7, "num_fact": 4, "facts": "The bald eagle eats the bear, The cow visits the dog, The cow is cold, The mouse likes the tiger"}
+{"nr": 8, "num_fact": 4, "facts": "The dog visits the bear, The cow sees the squirrel, Fiona is rough, Harry is cold"}
+{"nr": 9, "num_fact": 4, "facts": "The bald eagle chases the bear, The bear chases the rabbit, The cow chases the mouse, The cat needs the bald eagle"}
+{"nr": 0, "num_fact": 5, "facts": "Bob is big, Gary is rough, The rabbit likes the lion, The bear is blue, The rabbit is rough"}
+{"nr": 1, "num_fact": 5, "facts": "The cow likes the squirrel, The dog needs the squirrel, The bald eagle sees the mouse, The dog is green, The bald eagle likes the tiger"}
+{"nr": 2, "num_fact": 5, "facts": "The tiger needs the lion, The dog sees the squirrel, The dog likes the tiger, Erin is kind, The mouse needs the tiger"}
+{"nr": 3, "num_fact": 5, "facts": "The squirrel is nice, The rabbit likes the bear, The cat is nice, The lion needs the bald eagle, The squirrel chases the mouse"}
+{"nr": 4, "num_fact": 5, "facts": "The tiger likes the bald eagle, The cow is nice, The bald eagle visits the cow, The squirrel likes the cow, The rabbit visits the cow"}
+{"nr": 5, "num_fact": 5, "facts": "The tiger is rough, The tiger is red, The dog likes the cat, The tiger chases the bald eagle, The dog needs the cat"}
+{"nr": 6, "num_fact": 5, "facts": "The rabbit is red, The lion is red, The cat visits the dog, Fiona is rough, Anne is green"}
+{"nr": 7, "num_fact": 5, "facts": "The dog sees the bald eagle, Charlie is smart, The rabbit sees the mouse, The tiger visits the dog, The bald eagle sees the dog"}
+{"nr": 8, "num_fact": 5, "facts": "The bald eagle eats the bear, The bald eagle needs the rabbit, The rabbit needs the bear, Dave is white, The dog is young"}
+{"nr": 9, "num_fact": 5, "facts": "The bald eagle eats the cat, The lion sees the tiger, The cat visits the bald eagle, The bald eagle sees the dog, Charlie is rough"}
+{"nr": 0, "num_fact": 6, "facts": "The lion eats the dog, The squirrel eats the bear, The squirrel likes the lion, The mouse likes the tiger, The cow likes the mouse, The bald eagle needs the lion"}
+{"nr": 1, "num_fact": 6, "facts": "The bald eagle needs the dog, The mouse eats the squirrel, Harry is cold, The rabbit eats the lion, The tiger chases the mouse, The rabbit visits the cow"}
+{"nr": 2, "num_fact": 6, "facts": "Harry is cold, The bald eagle is green, The bald eagle chases the cat, The lion sees the rabbit, The cat eats the bear, The mouse is young"}
+{"nr": 3, "num_fact": 6, "facts": "The bear eats the lion, The cat sees the bear, The bald eagle chases the rabbit, The mouse likes the bald eagle, The rabbit eats the lion, The cow chases the bear"}
+{"nr": 4, "num_fact": 6, "facts": "The lion sees the cat, The bald eagle is kind, Dave is red, The tiger chases the cat, The bear chases the lion, The lion eats the rabbit"}
+{"nr": 5, "num_fact": 6, "facts": "The bear visits the dog, The tiger sees the cow, Harry is furry, The mouse needs the bear, The mouse needs the cat, Harry is smart"}
+{"nr": 6, "num_fact": 6, "facts": "The lion needs the cat, The dog sees the tiger, The cat visits the cow, Anne is red, The cat eats the bear, The tiger eats the rabbit"}
+{"nr": 7, "num_fact": 6, "facts": "Erin is furry, The squirrel chases the cow, The bear chases the cow, The mouse chases the bear, The squirrel chases the dog, The tiger chases the rabbit"}
+{"nr": 8, "num_fact": 6, "facts": "The mouse likes the cow, The rabbit needs the mouse, The cat eats the mouse, The squirrel eats the bear, The cow visits the cat, The cow needs the tiger"}
+{"nr": 9, "num_fact": 6, "facts": "The mouse needs the rabbit, The squirrel visits the mouse, The bald eagle is nice, Anne is red, The cat likes the mouse, The lion likes the rabbit"}
+{"nr": 0, "num_fact": 7, "facts": "The rabbit eats the mouse, The lion eats the squirrel, Harry is quiet, The cat is cold, The cat is rough, The bald eagle is nice, The bald eagle sees the bear"}
+{"nr": 1, "num_fact": 7, "facts": "The rabbit is rough, The tiger chases the bear, The mouse eats the bald eagle, Gary is big, The lion is nice, The mouse chases the lion, The bald eagle chases the cat"}
+{"nr": 2, "num_fact": 7, "facts": "The cat likes the rabbit, The mouse eats the dog, The dog visits the bald eagle, Gary is green, The bear chases the dog, The dog sees the mouse, The bear likes the tiger"}
+{"nr": 3, "num_fact": 7, "facts": "The rabbit chases the mouse, The squirrel needs the dog, The squirrel chases the cow, The rabbit eats the cat, The cow sees the mouse, The bald eagle eats the lion, The mouse likes the squirrel"}
+{"nr": 4, "num_fact": 7, "facts": "Gary is blue, The cat chases the bear, The rabbit visits the cat, The rabbit is cold, The cat visits the cow, Harry is quiet, The tiger visits the bear"}
+{"nr": 5, "num_fact": 7, "facts": "Fiona is rough, The squirrel is round, The dog eats the cat, The rabbit eats the tiger, The cow is red, Harry is rough, The bear eats the dog"}
+{"nr": 6, "num_fact": 7, "facts": "The dog eats the cow, The rabbit eats the cat, The cat chases the rabbit, The bear needs the dog, The rabbit likes the bear, The squirrel is round, Harry is green"}
+{"nr": 7, "num_fact": 7, "facts": "The cow likes the mouse, The mouse eats the lion, Charlie is young, The dog eats the cow, The cat chases the cow, The rabbit visits the dog, The bear chases the bald eagle"}
+{"nr": 8, "num_fact": 7, "facts": "The rabbit visits the lion, The bald eagle sees the tiger, The mouse eats the bald eagle, The squirrel eats the rabbit, The rabbit sees the mouse, The bear visits the cat, The lion likes the squirrel"}
+{"nr": 9, "num_fact": 7, "facts": "The cow chases the bear, The bear visits the bald eagle, The squirrel needs the cow, The mouse is rough, The dog eats the cat, The cat visits the lion, The bald eagle is young"}
+{"nr": 0, "num_fact": 8, "facts": "Anne is smart, The dog needs the squirrel, The mouse eats the tiger, The tiger sees the mouse, The squirrel eats the rabbit, The cat needs the cow, The tiger is big, The tiger eats the cow"}
+{"nr": 1, "num_fact": 8, "facts": "The dog likes the mouse, The bald eagle sees the lion, The cat sees the bear, The dog is cold, The squirrel visits the cow, The cow visits the cat, Bob is quiet, The lion needs the tiger"}
+{"nr": 2, "num_fact": 8, "facts": "The dog visits the squirrel, The dog visits the cat, The lion likes the tiger, The cow sees the bear, The bald eagle chases the tiger, The mouse chases the bear, The squirrel needs the mouse, The lion visits the squirrel"}
+{"nr": 3, "num_fact": 8, "facts": "The bald eagle eats the cow, The mouse eats the rabbit, The bear needs the squirrel, The squirrel visits the bear, The squirrel needs the rabbit, The cow sees the lion, The rabbit needs the tiger, The mouse needs the cat"}
+{"nr": 4, "num_fact": 8, "facts": "The bald eagle eats the squirrel, The dog sees the lion, Erin is smart, The dog visits the lion, The rabbit sees the bear, The dog is blue, Dave is white, The mouse chases the lion"}
+{"nr": 5, "num_fact": 8, "facts": "The mouse visits the tiger, The cat is big, The mouse chases the squirrel, The bear chases the cat, The cow sees the bald eagle, The cow sees the lion, The squirrel visits the cow, The bear is green"}
+{"nr": 6, "num_fact": 8, "facts": "The lion likes the rabbit, The cat visits the rabbit, Charlie is nice, Dave is quiet, The rabbit eats the cow, The lion likes the bear, The bear needs the dog, The rabbit needs the tiger"}
+{"nr": 7, "num_fact": 8, "facts": "Fiona is quiet, The cat is red, The cow is red, The mouse chases the tiger, The bear visits the cat, The rabbit is young, The bald eagle is blue, The cow eats the rabbit"}
+{"nr": 8, "num_fact": 8, "facts": "The cat is big, The cat likes the dog, The bald eagle visits the rabbit, Gary is nice, The dog chases the cow, The cat visits the rabbit, The mouse likes the bear, The cow chases the squirrel"}
+{"nr": 9, "num_fact": 8, "facts": "The rabbit is green, The tiger chases the bald eagle, The dog chases the mouse, The cat chases the bear, Bob is white, The tiger chases the bear, Anne is nice, The cat chases the rabbit"}
+{"nr": 0, "num_fact": 9, "facts": "The dog needs the squirrel, The lion chases the mouse, The cat visits the rabbit, The tiger visits the dog, The squirrel sees the rabbit, The cat visits the dog, Erin is nice, The dog needs the cat, The mouse chases the squirrel"}
+{"nr": 1, "num_fact": 9, "facts": "The bald eagle is red, The lion sees the bald eagle, The bald eagle eats the mouse, The squirrel sees the rabbit, The bear sees the rabbit, The cow visits the bald eagle, The mouse needs the rabbit, Harry is white, The cow needs the squirrel"}
+{"nr": 2, "num_fact": 9, "facts": "The cow sees the cat, The bald eagle is blue, The rabbit sees the dog, Harry is big, The tiger is blue, The mouse needs the cat, The mouse sees the tiger, The rabbit is big, The bald eagle is young"}
+{"nr": 3, "num_fact": 9, "facts": "The mouse sees the lion, The cow eats the bear, The squirrel chases the cat, The mouse chases the bald eagle, The cow eats the rabbit, The bear needs the cow, The squirrel eats the lion, The cat chases the mouse, The dog sees the bear"}
+{"nr": 4, "num_fact": 9, "facts": "The bear sees the dog, The bear likes the bald eagle, The lion chases the squirrel, The squirrel is green, The dog chases the bear, The rabbit visits the dog, The mouse eats the tiger, The mouse is nice, The bear chases the cow"}
+{"nr": 5, "num_fact": 9, "facts": "Harry is blue, The squirrel likes the rabbit, The bear visits the bald eagle, The bear eats the bald eagle, The tiger sees the bald eagle, The lion chases the rabbit, The cow visits the mouse, The cat eats the rabbit, Gary is kind"}
+{"nr": 6, "num_fact": 9, "facts": "Dave is kind, The dog likes the squirrel, The cat visits the squirrel, The squirrel sees the bald eagle, The dog sees the bear, The lion is round, Harry is kind, The bald eagle visits the tiger, The lion visits the dog"}
+{"nr": 7, "num_fact": 9, "facts": "The rabbit sees the squirrel, Harry is smart, The mouse visits the cat, The cow needs the lion, The cow likes the mouse, The bald eagle is young, The bald eagle needs the cat, The bear sees the cat, The bald eagle is big"}
+{"nr": 8, "num_fact": 9, "facts": "The bear likes the cow, Bob is green, The bald eagle likes the bear, The mouse likes the cat, The mouse visits the lion, The cat needs the mouse, Charlie is quiet, The squirrel sees the rabbit, The cat visits the mouse"}
+{"nr": 9, "num_fact": 9, "facts": "Anne is blue, The bear sees the tiger, The cow needs the tiger, The mouse visits the lion, The dog chases the mouse, Dave is kind, Erin is cold, The rabbit eats the tiger, The mouse needs the cat"}
+{"nr": 0, "num_fact": 10, "facts": "The squirrel visits the dog, The cat visits the rabbit, Bob is blue, The rabbit eats the squirrel, The squirrel chases the mouse, The cat is cold, The bald eagle visits the squirrel, The tiger likes the cat, The rabbit visits the squirrel, The bear eats the bald eagle"}
+{"nr": 1, "num_fact": 10, "facts": "The tiger eats the mouse, The squirrel chases the bald eagle, The bald eagle eats the lion, The dog likes the mouse, The tiger visits the bear, Charlie is rough, The lion needs the rabbit, The bear sees the mouse, The squirrel eats the dog, The tiger sees the dog"}
+{"nr": 2, "num_fact": 10, "facts": "The bear likes the squirrel, The lion chases the tiger, The bear eats the cow, The lion visits the squirrel, The bear chases the mouse, The cow is nice, The bear sees the bald eagle, The bald eagle visits the bear, Charlie is green, The dog needs the mouse"}
+{"nr": 3, "num_fact": 10, "facts": "The cat is blue, Anne is quiet, Harry is white, Fiona is big, The rabbit chases the bald eagle, The bear sees the lion, The cow sees the lion, The bear eats the mouse, The lion needs the rabbit, The rabbit is cold"}
+{"nr": 4, "num_fact": 10, "facts": "The cat visits the rabbit, The cow needs the bald eagle, Dave is rough, The cat is blue, The mouse needs the lion, The bear chases the rabbit, The bald eagle eats the rabbit, The tiger chases the rabbit, The tiger sees the squirrel, The bear likes the cow"}
+{"nr": 5, "num_fact": 10, "facts": "The dog sees the squirrel, The bald eagle chases the rabbit, The rabbit chases the tiger, The dog eats the tiger, The squirrel needs the bear, The cow needs the lion, The bald eagle sees the mouse, The bald eagle needs the mouse, The squirrel sees the bear, The bear visits the lion"}
+{"nr": 6, "num_fact": 10, "facts": "The lion sees the mouse, The bald eagle needs the lion, The lion sees the cow, The cow visits the squirrel, Anne is young, The dog needs the cat, The squirrel is cold, The lion is red, The squirrel eats the tiger, The mouse visits the dog"}
+{"nr": 7, "num_fact": 10, "facts": "The mouse is young, The tiger needs the bear, The cat eats the bald eagle, The squirrel likes the bald eagle, The bear is blue, The squirrel likes the bear, The tiger chases the bear, The bear eats the cat, The tiger eats the lion, Bob is big"}
+{"nr": 8, "num_fact": 10, "facts": "The mouse eats the cow, The bear is red, The squirrel is red, Gary is quiet, The rabbit eats the cow, The mouse is round, The squirrel chases the tiger, The bald eagle needs the cow, The bald eagle needs the tiger, Harry is furry"}
+{"nr": 9, "num_fact": 10, "facts": "The dog is cold, The tiger sees the cow, The mouse likes the squirrel, The bald eagle needs the dog, The bear likes the cat, The rabbit likes the mouse, The bald eagle needs the cow, The mouse is round, The tiger eats the squirrel, The tiger visits the dog"}

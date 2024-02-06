@@ -1,0 +1,100 @@
+{"nr": "0", "rule": "If the rabbit is round and the rabbit needs the squirrel then the rabbit is rough", "conditions": ["the rabbit is round", "the rabbit needs the squirrel"], "conclusion": "the rabbit is rough", "answer": "yes", "pos": ""}
+{"nr": "1", "rule": "If something needs the cat and the cat chases the rabbit then the cat chases the bear", "conditions": ["the dog needs the cat", "the cat chases the rabbit"], "conclusion": "the cat chases the bear", "answer": "yes", "pos": ""}
+{"nr": "2", "rule": "If something needs the bear and it does not chase the bear then the bear likes the cat", "conditions": ["the dog needs the bear", "the dog does not chase the bear"], "conclusion": "the bear likes the cat", "answer": "yes", "pos": ""}
+{"nr": "3", "rule": "If Bob is smart and Bob is blue then Bob is kind", "conditions": ["Bob is smart", "Bob is blue"], "conclusion": "Bob is kind", "answer": "yes", "pos": ""}
+{"nr": "4", "rule": "If something sees the cat and the cat is blue then the cat visits the dog", "conditions": ["the dog sees the cat", "the cat is blue"], "conclusion": "the cat visits the dog", "answer": "yes", "pos": ""}
+{"nr": "5", "rule": "If something is green and it visits the bear then the bear sees the dog", "conditions": ["the dog is green", "the dog visits the bear"], "conclusion": "the bear sees the dog", "answer": "yes", "pos": ""}
+{"nr": "6", "rule": "If someone is white and round then they are green", "conditions": ["Bob is white", "Bob is round"], "conclusion": "Bob is green", "answer": "yes", "pos": ""}
+{"nr": "7", "rule": "If something chases the mouse and it visits the mouse then the mouse visits the lion", "conditions": ["the dog chases the mouse", "the dog visits the mouse"], "conclusion": "the mouse visits the lion", "answer": "yes", "pos": ""}
+{"nr": "8", "rule": "If something needs the lion and it is green then it is round", "conditions": ["the dog needs the lion", "the dog is green"], "conclusion": "the dog is round", "answer": "yes", "pos": ""}
+{"nr": "9", "rule": "If someone likes the squirrel and the squirrel chases the tiger then the tiger eats the squirrel", "conditions": ["Bob likes the squirrel", "the squirrel chases the tiger"], "conclusion": "the tiger eats the squirrel", "answer": "yes", "pos": ""}
+{"nr": "10", "rule": "If someone is rough and smart then they are blue", "conditions": ["Bob is rough", "Bob is smart"], "conclusion": "Bob is blue", "answer": "yes", "pos": ""}
+{"nr": "11", "rule": "If the lion is round and the lion is young then the lion is rough", "conditions": ["the lion is round", "the lion is young"], "conclusion": "the lion is rough", "answer": "yes", "pos": ""}
+{"nr": "12", "rule": "If someone is green and they eat the rabbit then they are big", "conditions": ["Bob is green", "Bob eat the rabbit"], "conclusion": "Bob is big", "answer": "yes", "pos": ""}
+{"nr": "13", "rule": "If someone is big and they eat the bald eagle then the bald eagle needs the rabbit", "conditions": ["Bob is big", "Bob eat the bald eagle"], "conclusion": "the bald eagle needs the rabbit", "answer": "yes", "pos": ""}
+{"nr": "14", "rule": "If the rabbit chases the tiger and the rabbit eats the bald eagle then the rabbit eats the tiger", "conditions": ["the rabbit chases the tiger", "the rabbit eats the bald eagle"], "conclusion": "the rabbit eats the tiger", "answer": "yes", "pos": ""}
+{"nr": "15", "rule": "If something is smart and round then it is blue", "conditions": ["the dog is smart", "Bob is round"], "conclusion": "the dog is blue", "answer": "yes", "pos": ""}
+{"nr": "16", "rule": "If someone is furry and not rough then they are blue", "conditions": ["Bob is furry", "Bob is not rough"], "conclusion": "Bob is blue", "answer": "yes", "pos": ""}
+{"nr": "17", "rule": "If someone is furry and not round then they are blue", "conditions": ["Bob is furry", "Bob is not round"], "conclusion": "Bob is blue", "answer": "yes", "pos": ""}
+{"nr": "18", "rule": "If someone is round and not red then they are nice", "conditions": ["Bob is round", "Bob is not red"], "conclusion": "Bob is nice", "answer": "yes", "pos": ""}
+{"nr": "19", "rule": "If something eats the lion and the lion eats the bald eagle then it chases the lion", "conditions": ["the dog eats the lion", "the lion eats the bald eagle"], "conclusion": "the dog chases the lion", "answer": "yes", "pos": ""}
+{"nr": "20", "rule": "If something eats the lion and it eats the bald eagle then the lion is green", "conditions": ["the dog eats the lion", "the dog eats the bald eagle"], "conclusion": "the lion is green", "answer": "yes", "pos": ""}
+{"nr": "21", "rule": "If something eats the lion and it chases the bald eagle then it is blue", "conditions": ["the dog eats the lion", "the dog chases the bald eagle"], "conclusion": "the dog is blue", "answer": "yes", "pos": ""}
+{"nr": "22", "rule": "If the bald eagle likes the cow and the cow is cold then the bald eagle eats the tiger", "conditions": ["the bald eagle likes the cow", "the cow is cold"], "conclusion": "the bald eagle eats the tiger", "answer": "yes", "pos": ""}
+{"nr": "23", "rule": "If something eats the bald eagle and it is not kind then it eats the mouse", "conditions": ["the dog eats the bald eagle", "the dog is not kind"], "conclusion": "the dog eats the mouse", "answer": "yes", "pos": ""}
+{"nr": "24", "rule": "If something is nice and it does not need the bald eagle then the bald eagle needs the mouse", "conditions": ["the dog is nice", "the dog does not need the bald eagle"], "conclusion": "the bald eagle needs the mouse", "answer": "yes", "pos": ""}
+{"nr": "25", "rule": "If someone is kind and they visit the squirrel then the squirrel likes the bear", "conditions": ["Bob is kind", "Bob visit the squirrel"], "conclusion": "the squirrel likes the bear", "answer": "yes", "pos": ""}
+{"nr": "26", "rule": "If someone visits the bear and they do not like the bear then they like the squirrel", "conditions": ["Bob visits the bear", "Bob do not like the bear"], "conclusion": "Bob like the squirrel", "answer": "yes", "pos": ""}
+{"nr": "27", "rule": "If the squirrel is not kind and the squirrel does not visit the bear then the squirrel needs the bear", "conditions": ["the squirrel is not kind", "the squirrel does not visit the bear"], "conclusion": "the squirrel needs the bear", "answer": "yes", "pos": ""}
+{"nr": "28", "rule": "If something is furry and kind then it is young", "conditions": ["the dog is furry", "Bob is kind"], "conclusion": "the dog is young", "answer": "yes", "pos": ""}
+{"nr": "29", "rule": "If something is nice and big then it is furry", "conditions": ["the dog is nice", "Bob is big"], "conclusion": "the dog is furry", "answer": "yes", "pos": ""}
+{"nr": "30", "rule": "If Gary is cold and Gary is nice then Gary is kind", "conditions": ["Gary is cold", "Gary is nice"], "conclusion": "Gary is kind", "answer": "yes", "pos": ""}
+{"nr": "31", "rule": "If something is big and not furry then it is quiet", "conditions": ["the dog is big", "Bob is not furry"], "conclusion": "the dog is quiet", "answer": "yes", "pos": ""}
+{"nr": "32", "rule": "If something is kind and not rough then it is cold", "conditions": ["the dog is kind", "Bob is not rough"], "conclusion": "the dog is cold", "answer": "yes", "pos": ""}
+{"nr": "33", "rule": "If something eats the squirrel and it does not chase the rabbit then the squirrel is big", "conditions": ["the dog eats the squirrel", "the dog does not chase the rabbit"], "conclusion": "the squirrel is big", "answer": "yes", "pos": ""}
+{"nr": "34", "rule": "If the tiger chases the cat and the tiger visits the squirrel then the squirrel is red", "conditions": ["the tiger chases the cat", "the tiger visits the squirrel"], "conclusion": "the squirrel is red", "answer": "yes", "pos": ""}
+{"nr": "35", "rule": "If someone is white and not blue then they are quiet", "conditions": ["Bob is white", "Bob is not blue"], "conclusion": "Bob is quiet", "answer": "yes", "pos": ""}
+{"nr": "36", "rule": "If someone is big and round then they are white", "conditions": ["Bob is big", "Bob is round"], "conclusion": "Bob is white", "answer": "yes", "pos": ""}
+{"nr": "37", "rule": "If Dave is nice and Dave is cold then Dave is round", "conditions": ["Dave is nice", "Dave is cold"], "conclusion": "Dave is round", "answer": "yes", "pos": ""}
+{"nr": "38", "rule": "If Dave is rough and Dave is nice then Dave is big", "conditions": ["Dave is rough", "Dave is nice"], "conclusion": "Dave is big", "answer": "yes", "pos": ""}
+{"nr": "39", "rule": "If Charlie is rough and Charlie is blue then Charlie is nice", "conditions": ["Charlie is rough", "Charlie is blue"], "conclusion": "Charlie is nice", "answer": "yes", "pos": ""}
+{"nr": "40", "rule": "If someone is red and not rough then they are white", "conditions": ["Bob is red", "Bob is not rough"], "conclusion": "Bob is white", "answer": "yes", "pos": ""}
+{"nr": "41", "rule": "If someone is round and green then they are cold", "conditions": ["Bob is round", "Bob is green"], "conclusion": "Bob is cold", "answer": "yes", "pos": ""}
+{"nr": "42", "rule": "If something is smart and not red then it is cold", "conditions": ["the dog is smart", "Bob is not red"], "conclusion": "the dog is cold", "answer": "yes", "pos": ""}
+{"nr": "43", "rule": "If someone is smart and furry then they are quiet", "conditions": ["Bob is smart", "Bob is furry"], "conclusion": "Bob is quiet", "answer": "yes", "pos": ""}
+{"nr": "44", "rule": "If something needs the squirrel and it is round then the squirrel is green", "conditions": ["the dog needs the squirrel", "the dog is round"], "conclusion": "the squirrel is green", "answer": "yes", "pos": ""}
+{"nr": "45", "rule": "If something is blue and it does not need the lion then it chases the mouse", "conditions": ["the dog is blue", "the dog does not need the lion"], "conclusion": "the dog chases the mouse", "answer": "yes", "pos": ""}
+{"nr": "46", "rule": "If something is round and big then it needs the cat", "conditions": ["the dog is round", "Bob is big"], "conclusion": "the dog needs the cat", "answer": "yes", "pos": ""}
+{"nr": "47", "rule": "If something visits the rabbit and the rabbit chases the dog then the dog needs the rabbit", "conditions": ["the dog visits the rabbit", "the rabbit chases the dog"], "conclusion": "the dog needs the rabbit", "answer": "yes", "pos": ""}
+{"nr": "48", "rule": "If something visits the dog and the dog does not chase the rabbit then the rabbit needs the dog", "conditions": ["the dog visits the dog", "the dog does not chase the rabbit"], "conclusion": "the rabbit needs the dog", "answer": "yes", "pos": ""}
+{"nr": "49", "rule": "If something chases the rabbit and the rabbit needs the dog then the rabbit visits the dog", "conditions": ["the dog chases the rabbit", "the rabbit needs the dog"], "conclusion": "the rabbit visits the dog", "answer": "yes", "pos": ""}
+{"nr": "50", "rule": "If something is round and it does not need the dog then the dog is kind", "conditions": ["the dog does not need the dog"], "conclusion": "NOTHING", "answer": "no", "pos": "0"}
+{"nr": "51", "rule": "If something visits the cat and the cat chases the bear then the bear visits the cat", "conditions": ["the dog visits the cat"], "conclusion": "NOTHING", "answer": "no", "pos": "1"}
+{"nr": "52", "rule": "If something visits the bear and the bear chases the cat then it needs the cat", "conditions": ["the dog visits the bear"], "conclusion": "NOTHING", "answer": "no", "pos": "1"}
+{"nr": "53", "rule": "If something is blue and red then it chases the cat", "conditions": ["the dog is blue"], "conclusion": "NOTHING", "answer": "no", "pos": "1"}
+{"nr": "54", "rule": "If something is kind and not blue then it is cold", "conditions": ["the dog is kind"], "conclusion": "NOTHING", "answer": "no", "pos": "1"}
+{"nr": "55", "rule": "If something is quiet and cold then it is kind", "conditions": ["the dog is quiet"], "conclusion": "NOTHING", "answer": "no", "pos": "1"}
+{"nr": "56", "rule": "If something is white and not blue then it is quiet", "conditions": ["the dog is white"], "conclusion": "NOTHING", "answer": "no", "pos": "1"}
+{"nr": "57", "rule": "If Dave is quiet and Dave is not big then Dave is round", "conditions": ["Dave is quiet"], "conclusion": "NOTHING", "answer": "no", "pos": "1"}
+{"nr": "58", "rule": "If something is nice and not round then it is cold", "conditions": ["Bob is not round"], "conclusion": "NOTHING", "answer": "no", "pos": "0"}
+{"nr": "59", "rule": "If someone is young and not white then they are kind", "conditions": ["Bob is young"], "conclusion": "NOTHING", "answer": "no", "pos": "1"}
+{"nr": "60", "rule": "If someone is nice and not white then they are green", "conditions": ["Bob is nice"], "conclusion": "NOTHING", "answer": "no", "pos": "1"}
+{"nr": "61", "rule": "If someone is cold and round then they are big", "conditions": ["Bob is round"], "conclusion": "NOTHING", "answer": "no", "pos": "0"}
+{"nr": "62", "rule": "If someone is green and round then they are big", "conditions": ["Bob is green"], "conclusion": "NOTHING", "answer": "no", "pos": "1"}
+{"nr": "63", "rule": "If the bald eagle is green and the bald eagle is cold then the bald eagle is round", "conditions": ["the bald eagle is green"], "conclusion": "NOTHING", "answer": "no", "pos": "1"}
+{"nr": "64", "rule": "If the bald eagle is cold and the bald eagle is big then the bald eagle is green", "conditions": ["the bald eagle is cold"], "conclusion": "NOTHING", "answer": "no", "pos": "1"}
+{"nr": "65", "rule": "If someone is round and green then they are big", "conditions": ["Bob is green"], "conclusion": "NOTHING", "answer": "no", "pos": "0"}
+{"nr": "66", "rule": "If someone is green and red then they are round", "conditions": ["Bob is green"], "conclusion": "NOTHING", "answer": "no", "pos": "1"}
+{"nr": "67", "rule": "If Bob is blue and Bob is round then Bob is young", "conditions": ["Bob is blue"], "conclusion": "NOTHING", "answer": "no", "pos": "1"}
+{"nr": "68", "rule": "If something is quiet and not kind then it is round", "conditions": ["Bob is not kind"], "conclusion": "NOTHING", "answer": "no", "pos": "0"}
+{"nr": "69", "rule": "If something is nice and red then it is big", "conditions": ["the dog is nice"], "conclusion": "NOTHING", "answer": "no", "pos": "1"}
+{"nr": "70", "rule": "If something is red and not furry then it is big", "conditions": ["the dog is red"], "conclusion": "NOTHING", "answer": "no", "pos": "1"}
+{"nr": "71", "rule": "If something is furry and not red then it is rough", "conditions": ["Bob is not red"], "conclusion": "NOTHING", "answer": "no", "pos": "0"}
+{"nr": "72", "rule": "If something chases the dog and it is rough then the dog eats the squirrel", "conditions": ["the dog is rough"], "conclusion": "NOTHING", "answer": "no", "pos": "0"}
+{"nr": "73", "rule": "If something is red and big then it is white", "conditions": ["Bob is big"], "conclusion": "NOTHING", "answer": "no", "pos": "0"}
+{"nr": "74", "rule": "If something is big and red then it is quiet", "conditions": ["Bob is red"], "conclusion": "NOTHING", "answer": "no", "pos": "0"}
+{"nr": "75", "rule": "If something is smart and red then it is big", "conditions": ["Bob is red"], "conclusion": "NOTHING", "answer": "no", "pos": "0"}
+{"nr": "76", "rule": "If something visits the mouse and the mouse visits the lion then the mouse is rough", "conditions": ["the mouse visits the lion"], "conclusion": "NOTHING", "answer": "no", "pos": "0"}
+{"nr": "77", "rule": "If something is nice and it chases the lion then it visits the squirrel", "conditions": ["the dog chases the lion"], "conclusion": "NOTHING", "answer": "no", "pos": "0"}
+{"nr": "78", "rule": "If the mouse visits the squirrel and the mouse is kind then the mouse chases the lion", "conditions": ["the mouse visits the squirrel"], "conclusion": "NOTHING", "answer": "no", "pos": "1"}
+{"nr": "79", "rule": "If the lion is cold and the lion is young then the lion is kind", "conditions": ["the lion is cold"], "conclusion": "NOTHING", "answer": "no", "pos": "1"}
+{"nr": "80", "rule": "If the cat chases the lion and the lion is blue then the lion sees the cat", "conditions": ["the cat chases the lion"], "conclusion": "NOTHING", "answer": "no", "pos": "1"}
+{"nr": "81", "rule": "If someone visits the lion and they visit the cat then they are blue", "conditions": ["Bob visits the lion"], "conclusion": "NOTHING", "answer": "no", "pos": "1"}
+{"nr": "82", "rule": "If someone visits the cat and the cat is blue then they see the cat", "conditions": ["the cat is blue"], "conclusion": "NOTHING", "answer": "no", "pos": "0"}
+{"nr": "83", "rule": "If someone visits the cow and the cow needs the lion then they are green", "conditions": ["Bob visits the cow"], "conclusion": "NOTHING", "answer": "no", "pos": "1"}
+{"nr": "84", "rule": "If someone eats the cow and the cow eats the rabbit then the cow needs the lion", "conditions": ["Bob eats the cow"], "conclusion": "NOTHING", "answer": "no", "pos": "1"}
+{"nr": "85", "rule": "If Anne is quiet and Anne is big then Anne is furry", "conditions": ["Anne is quiet"], "conclusion": "NOTHING", "answer": "no", "pos": "1"}
+{"nr": "86", "rule": "If Bob is furry and Bob is big then Bob is nice", "conditions": ["Bob is big"], "conclusion": "NOTHING", "answer": "no", "pos": "0"}
+{"nr": "87", "rule": "If someone is quiet and kind then they are smart", "conditions": ["Bob is quiet"], "conclusion": "NOTHING", "answer": "no", "pos": "1"}
+{"nr": "88", "rule": "If something is blue and round then it is smart", "conditions": ["Bob is round"], "conclusion": "NOTHING", "answer": "no", "pos": "0"}
+{"nr": "89", "rule": "If someone is furry and kind then they are quiet", "conditions": ["Bob is kind"], "conclusion": "NOTHING", "answer": "no", "pos": "0"}
+{"nr": "90", "rule": "If Erin is not green and Erin is not quiet then Erin is nice", "conditions": ["Erin is not green"], "conclusion": "NOTHING", "answer": "no", "pos": "1"}
+{"nr": "91", "rule": "If someone is nice and not furry then they are big", "conditions": ["Bob is nice"], "conclusion": "NOTHING", "answer": "no", "pos": "1"}
+{"nr": "92", "rule": "If someone is kind and furry then they are big", "conditions": ["Bob is furry"], "conclusion": "NOTHING", "answer": "no", "pos": "0"}
+{"nr": "93", "rule": "If someone is rough and not kind then they are big", "conditions": ["Bob is rough"], "conclusion": "NOTHING", "answer": "no", "pos": "1"}
+{"nr": "94", "rule": "If someone is green and blue then they are round", "conditions": ["Bob is blue"], "conclusion": "NOTHING", "answer": "no", "pos": "0"}
+{"nr": "95", "rule": "If someone is big and furry then they are green", "conditions": ["Bob is furry"], "conclusion": "NOTHING", "answer": "no", "pos": "0"}
+{"nr": "96", "rule": "If Dave is red and Dave is nice then Dave is round", "conditions": ["Dave is nice"], "conclusion": "NOTHING", "answer": "no", "pos": "0"}
+{"nr": "97", "rule": "If the bear sees the bald eagle and the bear chases the cow then the bear is nice", "conditions": ["the bear chases the cow"], "conclusion": "NOTHING", "answer": "no", "pos": "0"}
+{"nr": "98", "rule": "If someone visits the cow and the cow visits the bear then they are blue", "conditions": ["the cow visits the bear"], "conclusion": "NOTHING", "answer": "no", "pos": "0"}
+{"nr": "99", "rule": "If the bear is nice and the bear sees the bald eagle then the bear visits the cow", "conditions": ["the bear is nice"], "conclusion": "NOTHING", "answer": "no", "pos": "1"}

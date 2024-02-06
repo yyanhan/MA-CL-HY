@@ -1,0 +1,100 @@
+{"nr": 0, "fact_1": "The rabbit eats the squirrel", "fact_2": "The rabbit eats the squirrel", "answer": "yes"}
+{"nr": 1, "fact_1": "The cat eats the cow", "fact_2": "The cat eats the cow", "answer": "yes"}
+{"nr": 2, "fact_1": "Fiona is cold", "fact_2": "Fiona is cold", "answer": "yes"}
+{"nr": 3, "fact_1": "The tiger likes the cat", "fact_2": "The tiger likes the cat", "answer": "yes"}
+{"nr": 4, "fact_1": "The mouse chases the tiger", "fact_2": "The mouse chases the tiger", "answer": "yes"}
+{"nr": 5, "fact_1": "The dog chases the lion", "fact_2": "The dog chases the lion", "answer": "yes"}
+{"nr": 6, "fact_1": "The cow sees the mouse", "fact_2": "The cow sees the mouse", "answer": "yes"}
+{"nr": 7, "fact_1": "Anne is rough", "fact_2": "Anne is rough", "answer": "yes"}
+{"nr": 8, "fact_1": "Harry is big", "fact_2": "Harry is big", "answer": "yes"}
+{"nr": 9, "fact_1": "The lion eats the tiger", "fact_2": "The lion eats the tiger", "answer": "yes"}
+{"nr": 10, "fact_1": "The bear visits the mouse", "fact_2": "The bear visits the mouse", "answer": "yes"}
+{"nr": 11, "fact_1": "The squirrel is round", "fact_2": "The squirrel is round", "answer": "yes"}
+{"nr": 12, "fact_1": "The tiger eats the dog", "fact_2": "The tiger eats the dog", "answer": "yes"}
+{"nr": 13, "fact_1": "The cow chases the tiger", "fact_2": "The cow chases the tiger", "answer": "yes"}
+{"nr": 14, "fact_1": "The bear visits the dog", "fact_2": "The bear visits the dog", "answer": "yes"}
+{"nr": 15, "fact_1": "The tiger chases the cat", "fact_2": "The tiger chases the cat", "answer": "yes"}
+{"nr": 16, "fact_1": "The tiger chases the lion", "fact_2": "The tiger chases the lion", "answer": "yes"}
+{"nr": 17, "fact_1": "The rabbit sees the bald eagle", "fact_2": "The rabbit sees the bald eagle", "answer": "yes"}
+{"nr": 18, "fact_1": "The tiger eats the cat", "fact_2": "The tiger eats the cat", "answer": "yes"}
+{"nr": 19, "fact_1": "Gary is smart", "fact_2": "Gary is smart", "answer": "yes"}
+{"nr": 20, "fact_1": "Bob is blue", "fact_2": "Bob is blue", "answer": "yes"}
+{"nr": 21, "fact_1": "The bald eagle needs the mouse", "fact_2": "The bald eagle needs the mouse", "answer": "yes"}
+{"nr": 22, "fact_1": "The squirrel needs the mouse", "fact_2": "The squirrel needs the mouse", "answer": "yes"}
+{"nr": 23, "fact_1": "Gary is cold", "fact_2": "Gary is cold", "answer": "yes"}
+{"nr": 24, "fact_1": "The tiger is young", "fact_2": "The tiger is young", "answer": "yes"}
+{"nr": 25, "fact_1": "The tiger eats the dog", "fact_2": "The tiger eats the dog", "answer": "yes"}
+{"nr": 26, "fact_1": "The cow visits the mouse", "fact_2": "The cow visits the mouse", "answer": "yes"}
+{"nr": 27, "fact_1": "The rabbit visits the bald eagle", "fact_2": "The rabbit visits the bald eagle", "answer": "yes"}
+{"nr": 28, "fact_1": "Bob is kind", "fact_2": "Bob is kind", "answer": "yes"}
+{"nr": 29, "fact_1": "Dave is big", "fact_2": "Dave is big", "answer": "yes"}
+{"nr": 30, "fact_1": "The tiger is green", "fact_2": "The tiger is green", "answer": "yes"}
+{"nr": 31, "fact_1": "The bear likes the squirrel", "fact_2": "The bear likes the squirrel", "answer": "yes"}
+{"nr": 32, "fact_1": "The lion visits the mouse", "fact_2": "The lion visits the mouse", "answer": "yes"}
+{"nr": 33, "fact_1": "The bear eats the lion", "fact_2": "The bear eats the lion", "answer": "yes"}
+{"nr": 34, "fact_1": "The rabbit eats the bear", "fact_2": "The rabbit eats the bear", "answer": "yes"}
+{"nr": 35, "fact_1": "The dog visits the cow", "fact_2": "The dog visits the cow", "answer": "yes"}
+{"nr": 36, "fact_1": "The squirrel likes the dog", "fact_2": "The squirrel likes the dog", "answer": "yes"}
+{"nr": 37, "fact_1": "The squirrel chases the bear", "fact_2": "The squirrel chases the bear", "answer": "yes"}
+{"nr": 38, "fact_1": "Harry is kind", "fact_2": "Harry is kind", "answer": "yes"}
+{"nr": 39, "fact_1": "The mouse likes the squirrel", "fact_2": "The mouse likes the squirrel", "answer": "yes"}
+{"nr": 40, "fact_1": "The cat is cold", "fact_2": "The cat is cold", "answer": "yes"}
+{"nr": 41, "fact_1": "The cow is nice", "fact_2": "The cow is nice", "answer": "yes"}
+{"nr": 42, "fact_1": "The tiger eats the cat", "fact_2": "The tiger eats the cat", "answer": "yes"}
+{"nr": 43, "fact_1": "The squirrel needs the lion", "fact_2": "The squirrel needs the lion", "answer": "yes"}
+{"nr": 44, "fact_1": "Charlie is furry", "fact_2": "Charlie is furry", "answer": "yes"}
+{"nr": 45, "fact_1": "The tiger likes the mouse", "fact_2": "The tiger likes the mouse", "answer": "yes"}
+{"nr": 46, "fact_1": "The rabbit is green", "fact_2": "The rabbit is green", "answer": "yes"}
+{"nr": 47, "fact_1": "The mouse visits the bald eagle", "fact_2": "The mouse visits the bald eagle", "answer": "yes"}
+{"nr": 48, "fact_1": "The dog is green", "fact_2": "The dog is green", "answer": "yes"}
+{"nr": 49, "fact_1": "The cat needs the cow", "fact_2": "The cat needs the cow", "answer": "yes"}
+{"nr": 0, "fact_1": "The squirrel is young", "fact_2": "The dog eats the bear", "answer": "no"}
+{"nr": 1, "fact_1": "The bald eagle sees the tiger", "fact_2": "The rabbit needs the dog", "answer": "no"}
+{"nr": 2, "fact_1": "The mouse eats the bear", "fact_2": "The squirrel visits the rabbit", "answer": "no"}
+{"nr": 3, "fact_1": "The mouse needs the cow", "fact_2": "The lion sees the squirrel", "answer": "no"}
+{"nr": 4, "fact_1": "The rabbit sees the bald eagle", "fact_2": "Fiona is green", "answer": "no"}
+{"nr": 5, "fact_1": "The lion chases the mouse", "fact_2": "The lion is green", "answer": "no"}
+{"nr": 6, "fact_1": "The bear is cold", "fact_2": "The rabbit eats the dog", "answer": "no"}
+{"nr": 7, "fact_1": "The squirrel needs the bear", "fact_2": "The dog visits the rabbit", "answer": "no"}
+{"nr": 8, "fact_1": "The squirrel likes the rabbit", "fact_2": "The cow is young", "answer": "no"}
+{"nr": 9, "fact_1": "The cat needs the lion", "fact_2": "The cat likes the bald eagle", "answer": "no"}
+{"nr": 10, "fact_1": "The cat eats the bear", "fact_2": "The cat is cold", "answer": "no"}
+{"nr": 11, "fact_1": "The squirrel visits the cow", "fact_2": "The rabbit eats the bald eagle", "answer": "no"}
+{"nr": 12, "fact_1": "The tiger is green", "fact_2": "The rabbit eats the tiger", "answer": "no"}
+{"nr": 13, "fact_1": "The rabbit likes the bald eagle", "fact_2": "Harry is blue", "answer": "no"}
+{"nr": 14, "fact_1": "The lion needs the squirrel", "fact_2": "The bald eagle is big", "answer": "no"}
+{"nr": 15, "fact_1": "The rabbit eats the bear", "fact_2": "The bald eagle eats the mouse", "answer": "no"}
+{"nr": 16, "fact_1": "The tiger is rough", "fact_2": "The rabbit chases the bear", "answer": "no"}
+{"nr": 17, "fact_1": "The dog chases the lion", "fact_2": "The tiger likes the mouse", "answer": "no"}
+{"nr": 18, "fact_1": "The bear likes the tiger", "fact_2": "The mouse likes the cat", "answer": "no"}
+{"nr": 19, "fact_1": "The bald eagle is red", "fact_2": "The tiger sees the mouse", "answer": "no"}
+{"nr": 20, "fact_1": "The lion needs the tiger", "fact_2": "The rabbit visits the lion", "answer": "no"}
+{"nr": 21, "fact_1": "Charlie is kind", "fact_2": "Dave is quiet", "answer": "no"}
+{"nr": 22, "fact_1": "The lion visits the squirrel", "fact_2": "The squirrel needs the tiger", "answer": "no"}
+{"nr": 23, "fact_1": "The bear likes the tiger", "fact_2": "The rabbit likes the cat", "answer": "no"}
+{"nr": 24, "fact_1": "The lion is red", "fact_2": "Bob is young", "answer": "no"}
+{"nr": 25, "fact_1": "The cow eats the bear", "fact_2": "The cat eats the bear", "answer": "no"}
+{"nr": 26, "fact_1": "The rabbit is young", "fact_2": "The bear eats the rabbit", "answer": "no"}
+{"nr": 27, "fact_1": "The cat likes the dog", "fact_2": "The cow visits the bear", "answer": "no"}
+{"nr": 28, "fact_1": "Erin is big", "fact_2": "Harry is furry", "answer": "no"}
+{"nr": 29, "fact_1": "The rabbit is round", "fact_2": "The bear likes the mouse", "answer": "no"}
+{"nr": 30, "fact_1": "The bald eagle sees the rabbit", "fact_2": "The cow needs the bald eagle", "answer": "no"}
+{"nr": 31, "fact_1": "The cow eats the mouse", "fact_2": "The dog eats the bear", "answer": "no"}
+{"nr": 32, "fact_1": "The cow chases the tiger", "fact_2": "The cat needs the lion", "answer": "no"}
+{"nr": 33, "fact_1": "The bald eagle eats the mouse", "fact_2": "The rabbit is kind", "answer": "no"}
+{"nr": 34, "fact_1": "The mouse sees the lion", "fact_2": "Charlie is quiet", "answer": "no"}
+{"nr": 35, "fact_1": "The cow likes the rabbit", "fact_2": "The bald eagle likes the lion", "answer": "no"}
+{"nr": 36, "fact_1": "Dave is cold", "fact_2": "The squirrel sees the bear", "answer": "no"}
+{"nr": 37, "fact_1": "The rabbit needs the mouse", "fact_2": "The mouse is rough", "answer": "no"}
+{"nr": 38, "fact_1": "The dog is round", "fact_2": "The bear visits the squirrel", "answer": "no"}
+{"nr": 39, "fact_1": "The dog likes the mouse", "fact_2": "Anne is kind", "answer": "no"}
+{"nr": 40, "fact_1": "The squirrel chases the dog", "fact_2": "The squirrel sees the tiger", "answer": "no"}
+{"nr": 41, "fact_1": "Gary is rough", "fact_2": "The lion likes the dog", "answer": "no"}
+{"nr": 42, "fact_1": "The tiger eats the squirrel", "fact_2": "The bald eagle needs the cow", "answer": "no"}
+{"nr": 43, "fact_1": "The squirrel likes the mouse", "fact_2": "The cow needs the rabbit", "answer": "no"}
+{"nr": 44, "fact_1": "The cat needs the dog", "fact_2": "Gary is big", "answer": "no"}
+{"nr": 45, "fact_1": "The mouse is kind", "fact_2": "The bald eagle visits the cat", "answer": "no"}
+{"nr": 46, "fact_1": "The dog needs the tiger", "fact_2": "The cow eats the dog", "answer": "no"}
+{"nr": 47, "fact_1": "The cat eats the rabbit", "fact_2": "The bear visits the squirrel", "answer": "no"}
+{"nr": 48, "fact_1": "The squirrel likes the dog", "fact_2": "Gary is round", "answer": "no"}
+{"nr": 49, "fact_1": "Bob is quiet", "fact_2": "Bob is smart", "answer": "no"}
